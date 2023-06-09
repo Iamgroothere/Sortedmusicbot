@@ -1,1 +1,1 @@
-# Sortedmusicbot
+# Treasurebot
